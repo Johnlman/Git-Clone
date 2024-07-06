@@ -1,0 +1,1 @@
+"This is my own implementation of Git, developed in Python and based on https://wyag.thb.lt/. The intention behind this project was to gain a better understanding of Git itself, and what better way to do that than to write it from scratch? It only works on Linux-based systems
